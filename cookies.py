@@ -2,9 +2,8 @@ import streamlit as st
 
 st.set_page_config(page_title="Cookies", page_icon=":cookie:")
 
-st.title("Cookie Recipe 🍪")
+st.title("Best Ever Chocolate Chip Cookie Recipe 🍪")
 
-"""Best Ever Chocolate Chip Cookie Recipe"""
 
 """INGREDIENTS"""
 
